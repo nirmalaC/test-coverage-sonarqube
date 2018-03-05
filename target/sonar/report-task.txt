@@ -1,0 +1,6 @@
+projectKey=com.mkyong:MathOperations
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.mkyong:MathOperations
+ceTaskId=AWH2B0UMTy1RTmw8_5yf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWH2B0UMTy1RTmw8_5yf
